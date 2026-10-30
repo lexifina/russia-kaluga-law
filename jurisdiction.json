@@ -1,0 +1,11 @@
+{
+  "path": "ru-klu",
+  "code": "RU-KLU",
+  "name": "Kaluga Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-kaluga-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
