@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:44:09Z",
+ "generated": "2026-11-25T06:59:23Z",
  "latest": {
   "pravo-kaluga|russia/kaluga/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1555,
     "source_in_scope": 1555
    },
-   "check_id": "ru-pravo-kaluga-20261124T134008Z",
+   "check_id": "ru-pravo-kaluga-20261125T053148Z",
    "commits": null,
    "corpus": "russia/kaluga/acts",
    "error": null,
-   "finished": "2026-11-24T13:44:09Z",
+   "finished": "2026-11-25T05:32:37Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region40: 1555 law-type documents listed (every page read); 1555 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1555 law-type documents in block region40; newest published 2026-10-20",
    "source": "pravo-kaluga",
-   "started": "2026-11-24T13:40:08Z",
+   "started": "2026-11-25T05:31:48Z",
    "unexplained": 0,
    "update": {
     "parts": []
